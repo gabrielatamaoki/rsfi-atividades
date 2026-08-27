@@ -12,7 +12,7 @@
 - [ ] d) Nenhum desses padrões suportaria taxas de transmissão acima de 11 Mbps em qualquer cenário
 - [X] e) 802.11a opera em 5 GHz, com taxas mais altas, mas maior sensibilidade a obstáculos e menor alcance que sinais em 2,4 GHz
 
-**Justificativa:** 802.11a opera em 5 GHz, com taxas mais altas, mas maior sensibilidade a obstáculos e menor alcance que sinais em 2,4 GHz.
+**Justificativa:** O padrão 802.11a opera na faixa de 5 GHz e, graças ao uso de modulação OFDM mais eficiente, alcança taxas de até 54 Mbps. 
 
 **2.** Uma rede antiga, toda equipada com dispositivos 802.11b, precisa ser modernizada para taxas de transmissão mais altas, mas sem descartar de imediato os equipamentos já instalados. Qual padrão da família 802.11 resolve esse problema de compatibilidade?
 
@@ -22,4 +22,4 @@
 - [ ] d) 802.11g não conseguiria ultrapassar 11 Mbps de taxa de transmissão em nenhuma condição
 - [ ] e) 802.11g exigiria hardware idêntico ao 802.11a, sem nenhuma compatibilidade com o 802.11b
 
-**Justificativa:** 802.11g opera em 2,4 GHz, mantendo compatibilidade com o 802.11b, mas alcançando taxas de até 54 Mbps.
+**Justificativa:**  O padrão 802.11g foi projetado para operar na mesma faixa de 2,4 GHz do 802.11b, o que garante retrocompatibilidade: dispositivos 802.11b e 802.11g podem coexistir na mesma rede.
