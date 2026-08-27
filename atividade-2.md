@@ -12,7 +12,7 @@
 - [X] d) Infravermelho (IR), pois exige linha de visada direta e é tipicamente usado em controles remotos de curto alcance
 - [ ] e) VANETs, pois seria o padrão adotado para dispositivos eletrônicos domésticos em geral
 
-**Justificativa:** <escreva aqui sua justificativa>
+**Justificativa:** O infravermelho é a tecnologia tradicionalmente empregada em controles remotos de TVs porque opera em curtíssimo alcance, tem custo muito baixo, consome pouca energia e exige linha de visada direta entre o transmissor e o receptor, o que evita interferências acidentais de outros dispositivos.
 
 **2.** Um sistema de trânsito inteligente quer que os veículos troquem informações entre si e com sensores instalados na rodovia, em tempo real, para alertar sobre frenagens bruscas e congestionamentos à frente. Qual tecnologia sem fio foi desenvolvida especificamente para esse tipo de comunicação?
 
@@ -22,4 +22,4 @@
 - [ ] d) Infravermelho, pois funcionaria bem mesmo sem linha de visada direta e em alta velocidade
 - [ ] e) WiMAX, pois teria sido criado especificamente para comunicação entre veículos em movimento
 
-**Justificativa:** <escreva aqui sua justificativa>
+**Justificativa:** As VANETs (Vehicular Ad‑hoc Networks) são uma categoria específica de redes ad‑hoc móveis criadas justamente para permitir comunicação veículo‑a‑veículo (V2V) e veículo‑à‑infraestrutura (V2I) em cenários de trânsito inteligente, como alertas de frenagem brusca, colisão e congestionamento.
