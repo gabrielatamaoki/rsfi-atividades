@@ -9,7 +9,7 @@
 - [ ] a) Wi-Fi, pois seria a tecnologia mais barata disponível para esse tipo de dispositivo
 - [ ] b) WiMAX, pois seria a tecnologia ideal para controles remotos de uso doméstico
 - [ ] c) Bluetooth, pois também exigiria linha de visada direta com o aparelho, como o infravermelho
-- [ ] d) Infravermelho (IR), pois exige linha de visada direta e é tipicamente usado em controles remotos de curto alcance
+- [X] d) Infravermelho (IR), pois exige linha de visada direta e é tipicamente usado em controles remotos de curto alcance
 - [ ] e) VANETs, pois seria o padrão adotado para dispositivos eletrônicos domésticos em geral
 
 **Justificativa:** <escreva aqui sua justificativa>
@@ -17,7 +17,7 @@
 **2.** Um sistema de trânsito inteligente quer que os veículos troquem informações entre si e com sensores instalados na rodovia, em tempo real, para alertar sobre frenagens bruscas e congestionamentos à frente. Qual tecnologia sem fio foi desenvolvida especificamente para esse tipo de comunicação?
 
 - [ ] a) Wimesh, pois seria a tecnologia padrão para interligar sensores dentro de um único prédio
-- [ ] b) VANETs (Vehicular Ad-hoc Networks), tecnologia voltada à comunicação entre veículos e com a infraestrutura viária
+- [X] b) VANETs (Vehicular Ad-hoc Networks), tecnologia voltada à comunicação entre veículos e com a infraestrutura viária
 - [ ] c) Bluetooth, pois seu alcance seria suficiente para cobrir rodovias inteiras em tempo real
 - [ ] d) Infravermelho, pois funcionaria bem mesmo sem linha de visada direta e em alta velocidade
 - [ ] e) WiMAX, pois teria sido criado especificamente para comunicação entre veículos em movimento
